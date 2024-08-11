@@ -33,8 +33,6 @@ RunningMan/
 │   ├── End.class               # Class for managing the end screen
 │   ├── GameFrame.class         # Main game window/frame class
 │   ├── HelpFrame.class         # Class for help screen frame
-│   ├── LoginFrame$1.class      # Inner class for login frame1
-│   ├── LoginFrame$2.class      # Inner class for login frame2
 │   ├── LoginFrame.class        # Class for login window/frame
 │   ├── MenuFrame.class         # Class for menu window/frame
 │   └── WindowFrame.class       # General class for handling window frames
